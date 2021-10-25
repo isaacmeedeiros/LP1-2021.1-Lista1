@@ -22,10 +22,7 @@ double intervalo1 = 0, intervalo2 = 0, intervalo3 = 0, intervalo4 = 0, intervalo
 
 
 while( cin >> std::ws >> x) {
-  if(x == N){
-    break;
-  }
-  else if(x>= 0 && x<= 24){
+  if(x>= 0 && x<= 24){
     intervalo1++; 
   }
   else if(x>= 25 && x< 50){
