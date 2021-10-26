@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/LP1-20211-Lista1/minmax/src/function.cpp
+function.h
+/home/runner/LP1-20211-Lista1/minmax/src/function.h
+
+/home/runner/LP1-20211-Lista1/minmax/src/function.h
+utility
+-
+
