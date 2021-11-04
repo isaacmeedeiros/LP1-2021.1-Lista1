@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/LP1-20211-Lista1/ponto_em_retangulo_2/src/function.cpp
+function.h
+/home/runner/LP1-20211-Lista1/ponto_em_retangulo_2/src/function.h
+
+/home/runner/LP1-20211-Lista1/ponto_em_retangulo_2/src/function.h
+array
+-
+string
+-
+
+/home/runner/LP1-20211-Lista1/ponto_em_retangulo_2/src/main.cpp
+iostream
+-
+algorithm
+-
+tuple
+-
+function.h
+/home/runner/LP1-20211-Lista1/ponto_em_retangulo_2/src/function.h
+
